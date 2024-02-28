@@ -35,27 +35,11 @@ function hollidaySegar(PESO) {
     return 1000 + 500 + (PESO - 20) * 20;
   }
 
-  // return "este es el hs :"+ PESO
+  
 }
 
 function superficieCorporal(PESO) {
   return (PESO * 4 + 7) / (PESO + 90);
 }
 
-// const ERROR = document.getElementById('error');
-// const FLU = document.getElementById('flu');
-// const MAN = document.getElementById('man');
 
-/* function calculardosisdehidratacion() {
-    let PESO = input.value; */
-
-/*  
-    }
-
-    function hollidaysegar(peso) {
-        return "holliday";
-    }
-
-    function superficieCorporal(peso){
-        return "superficie";
-    }*/
